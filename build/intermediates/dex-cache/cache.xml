@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="/home/mike/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_4c78d0a4b2f115c3dece942eaf3d0e515e5e15be.jar" />
+    </item>
+    <item
         jar="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -16,11 +23,11 @@
         <dex dex="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.0_05efda74e5140238692ac0106ca990335daabccd.jar" />
     </item>
     <item
-        jar="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jar="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
-        <dex dex="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_86e75b10c1dd6d7d098c1f0e3b16d979322f1eaf.jar" />
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_1ebd31c34ecd3e72a95adae0370508fc3cd5314b.jar" />
     </item>
     <item
         jar="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
@@ -30,18 +37,11 @@
         <dex dex="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.0_e565206084c2181c33920f1b00b54d1980ab4e98.jar" />
     </item>
     <item
-        jar="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jar="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="6e239441500605809818997dd63b62a947195f8c">
-        <dex dex="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0_1ebd31c34ecd3e72a95adae0370508fc3cd5314b.jar" />
-    </item>
-    <item
-        jar="/home/mike/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
-        <dex dex="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0_4c78d0a4b2f115c3dece942eaf3d0e515e5e15be.jar" />
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/mike/AndroidStudioProjects/CargreetingCard/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.0_86e75b10c1dd6d7d098c1f0e3b16d979322f1eaf.jar" />
     </item>
 
 </items>
